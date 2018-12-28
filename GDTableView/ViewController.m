@@ -32,7 +32,7 @@ static NSString *const kGDCellIdentifier = @"kGDCellIdentifier";
 #pragma mark - Data
 
 - (void)loadData{
-    [self.tableViewArray addObjectsFromArray:@[UIColor.redColor,UIColor.yellowColor,UIColor.greenColor,UIColor.cyanColor,UIColor.redColor,UIColor.yellowColor,UIColor.greenColor,UIColor.cyanColor]];
+    self.tableViewArray = @[UIColor.redColor,UIColor.yellowColor,UIColor.greenColor,UIColor.cyanColor,UIColor.redColor,UIColor.yellowColor,UIColor.greenColor,UIColor.cyanColor];
     [self.tableView reloadData];
 }
 

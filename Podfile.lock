@@ -1,18 +1,22 @@
 PODS:
+  - FastImageCache (1.5.1)
   - SDWebImage (4.4.2):
     - SDWebImage/Core (= 4.4.2)
   - SDWebImage/Core (4.4.2)
 
 DEPENDENCIES:
+  - FastImageCache
   - SDWebImage
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - FastImageCache
     - SDWebImage
 
 SPEC CHECKSUMS:
+  FastImageCache: 2e7a6f677b15336eb3d1a4092a494676256c891d
   SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
 
-PODFILE CHECKSUM: 1fb0afae057ad34d31ec71e9b3e30acb4c60b7da
+PODFILE CHECKSUM: 18c1ce1c0265123e626a084b98a2f63e95db412f
 
 COCOAPODS: 1.5.3

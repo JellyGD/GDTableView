@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F3F1A80B27BBB5EB9A9A19FD3F4E3B01"
+               BlueprintIdentifier = "22B9B182049B9D22592A5EC70C8782C9"
                BlueprintName = "Pods-GDTableView"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libPods-GDTableView.a">

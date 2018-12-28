@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2606D63C4A1370640611F2162D5C244"
-               BlueprintName = "SDWebImage"
+               BlueprintIdentifier = "819C321EC7904AD54667B85309784384"
+               BlueprintName = "FastImageCache"
                ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libSDWebImage.a">
+               BuildableName = "libFastImageCache.a">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

@@ -80,6 +80,13 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		A125F69721D6159300E0E03A /* FPSLabel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = FPSLabel;
+			sourceTree = "<group>";
+		};
 		A18913E021D4B94000A8922B = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +110,7 @@
 		A18913EB21D4B94000A8922B /* GDTableView */ = {
 			isa = PBXGroup;
 			children = (
+				A125F69721D6159300E0E03A /* FPSLabel */,
 				A18913EC21D4B94000A8922B /* AppDelegate.h */,
 				A18913ED21D4B94000A8922B /* AppDelegate.m */,
 				A18913EF21D4B94000A8922B /* ViewController.h */,
